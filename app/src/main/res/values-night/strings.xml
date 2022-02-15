@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EmployeeRecords</string>
+    <string name="tv_title">Employee Records</string>
+    <string name="bt_load">Load</string>
+    <string name="bt_delete">Delete</string>
+    <string name="bt_view">View</string>
+    <string name="tv_name">Name</string>
+    <string name="tv_email">Email</string>
+    <string name="tv_mobile">Mobile</string>
+    <string name="tv_gender">Gender</string>
+</resources>
